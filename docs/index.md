@@ -14,14 +14,3 @@ nouvelles fonctinalités du nouveau module "Tournées".
 - La manipulation des points d’arrêts généré automatiquement: Modification, Suppression, Réorganisation et Optimisation.    
 - La validation de la tournée.
 
-## Project layout
-
-```php
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
-
-
-
