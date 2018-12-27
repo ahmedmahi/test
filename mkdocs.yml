@@ -1,5 +1,7 @@
 site_name: SaveMyPaquet - Module "Tournées"
-theme: 'simplex'
+theme:
+    name: simplex
+    custom_dir: theme/
 nav:
 - Home: 'index.md'
 - User Guide:

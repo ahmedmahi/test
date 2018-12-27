@@ -1,11 +1,19 @@
 ![](img/bgsmp.jpg)
 
+
+
+# Évolution de la documentation
+
+| Version | Nature des changements             | Date       |
+| ------- | ---------------------------------- | ---------- |
+| 1.0     | Création ( Ahmed MAHI - eComTech ) | 24/12/2019 |
+
+
+
 # Présentation
 
 La présente documentation est destiné a l'administrateur de l'application web en ligne, elle décrit les 
 nouvelles fonctinalités du nouveau module "Tournées".
-
-
 
 # Les fonctionnalités du module.
 
